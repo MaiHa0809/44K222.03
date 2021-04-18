@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bundle name="Login/Signup Popup">
+  <domain name="easy-login-woocommerce">
+    <project name="Login/Signup Popup" slug="easy-login-woocommerce">
+      <source>
+        <directory>.</directory>
+      </source>
+      <target>
+        <directory>languages</directory>
+      </target>
+      <template>
+        <file>languages/easy-login-woocommerce.pot</file>
+      </template>
+    </project>
+  </domain>
+</bundle>
