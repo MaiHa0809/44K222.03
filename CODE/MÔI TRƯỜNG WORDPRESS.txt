@@ -1,0 +1,273 @@
+Môi trường WordPress
+Địa chỉ WordPress (URL):		http://shinspavn.xyz
+Địa chỉ trang web (URL):		http://shinspavn.xyz
+Phiên bản WooCommerce:		5.2.2
+WooCommerce REST API package:		 5.2.2 /home/shamvoqo/public_html/wp-content/plugins/woocommerce/includes
+WooCommerce Blocks package:		 4.7.2 /home/shamvoqo/public_html/wp-content/plugins/woocommerce/packages/woocommerce-blocks/
+Action Scheduler package:		 3.1.6 /home/shamvoqo/public_html/wp-content/plugins/woocommerce/packages/action-scheduler
+WooCommerce Admin package:		 2.1.5 /home/shamvoqo/public_html/wp-content/plugins/woocommerce/packages/woocommerce-admin
+Khả năng ghi lên thư mục log:		 /home/shamvoqo/public_html/wp-content/uploads/wc-logs/
+Phiên bản WordPress:		5.7.1
+WordPress multiside:		–
+Giới hạn bộ nhớ WordPress:		512 MB
+Chế độ gỡ lỗi WordPress:		–
+WordPress cron:		
+Ngôn ngữ:		vi
+External object cache:		–
+Môi trường hệ thống
+Thông tin máy chủ:		LiteSpeed
+Phiên bản PHP:		7.2.34
+PHP post max size:		128 MB
+PHP time limit:		30
+PHP max input vars:		1000
+Phiên bản cURL:		7.71.0, OpenSSL/1.1.1d
+SUHOSIN installed:		–
+Phiên bản MySQL:		10.3.28-MariaDB-log-cll-lve
+Kích thước tải lên tối đa:		128 MB
+Múi giờ mặc định là UTC.:		
+fsockopen/cURL:		
+SoapClient:		
+DOMDocument:		
+GZip:		
+Chuỗi Multibyte:		
+Remote post:		
+Remote get:		
+Cơ sở dữ liệu
+Phiên bản cơ sở dữ liệu WooCommerce:		5.2.2
+Database prefix	 	wpsu_
+Kích thước tổng dữ liệu	 	10.79MB
+Kích thước cơ sở dữ liệu	 	9.83MB
+Kích thước chỉ mục dữ liệu	 	0.96MB
+wpsu_woocommerce_sessions	 	Data: 0.01MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_api_keys	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_attribute_taxonomies	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_downloadable_product_permissions	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_order_items	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_order_itemmeta	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_tax_rates	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_tax_rate_locations	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_shipping_zones	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_shipping_zone_locations	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_shipping_zone_methods	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_payment_tokens	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_payment_tokenmeta	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_woocommerce_log	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_actionscheduler_actions	 	Data: 0.01MB + Index: 0.02MB + Engine MyISAM
+wpsu_actionscheduler_claims	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_actionscheduler_groups	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_actionscheduler_logs	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_booking	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_bookingdates	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_bookly_appointments	 	Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpsu_bookly_categories	 	Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpsu_bookly_customers	 	Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpsu_bookly_customer_appointments	 	Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+wpsu_bookly_holidays	 	Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpsu_bookly_log	 	Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpsu_bookly_messages	 	Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpsu_bookly_notifications	 	Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpsu_bookly_payments	 	Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpsu_bookly_schedule_item_breaks	 	Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpsu_bookly_sent_notifications	 	Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpsu_bookly_series	 	Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpsu_bookly_services	 	Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpsu_bookly_shop	 	Data: 0.06MB + Index: 0.00MB + Engine InnoDB
+wpsu_bookly_staff	 	Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpsu_bookly_staff_schedule_items	 	Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+wpsu_bookly_staff_services	 	Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpsu_bookly_stats	 	Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+wpsu_bookly_sub_services	 	Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+wpsu_commentmeta	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_comments	 	Data: 0.01MB + Index: 0.01MB + Engine MyISAM
+wpsu_erp_acct_bills	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_bill_account_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_bill_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_cash_at_banks	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_chart_of_accounts	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_currency_info	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_expenses	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_expense_checks	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_expense_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_financial_years	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_invoices	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_invoice_account_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_invoice_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_invoice_details_tax	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_invoice_receipts	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_invoice_receipts_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_journals	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_journal_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_ledgers	 	Data: 0.01MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_ledger_categories	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_ledger_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_ledger_settings	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_opening_balances	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_payment_methods	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_pay_bill	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_pay_bill_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_pay_purchase	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_pay_purchase_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_people_account_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_people_trn	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_people_trn_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_products	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_product_categories	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_product_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_product_types	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_purchase	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_purchase_account_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_purchase_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_purchase_details_tax	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_taxes	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_tax_agencies	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_tax_agency_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_tax_categories	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_tax_cat_agency	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_tax_pay	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_transfer_voucher	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_trn_status_types	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_acct_voucher_no	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_audit_log	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_company_locations	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_crm_activities_task	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_crm_contact_group	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_crm_contact_subscriber	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_crm_customer_activities	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_crm_customer_companies	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_crm_save_email_replies	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_crm_save_search	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_holidays_indv	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_announcement	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_dependents	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_depts	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_designations	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_education	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_employees	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_employee_history	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_employee_notes	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_employee_performance	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_financial_years	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_holiday	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_leaves	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_leaves_unpaid	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_leave_approval_status	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_leave_encashment_requests	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_leave_entitlements	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_leave_policies	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_leave_policies_segregation	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_leave_requests	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_leave_request_details	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_hr_work_exp	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_peoplemeta	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_peoples	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_people_types	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_people_type_relations	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_erp_user_leaves	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_links	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_options	 	Data: 1.28MB + Index: 0.11MB + Engine MyISAM
+wpsu_postmeta	 	Data: 2.90MB + Index: 0.19MB + Engine MyISAM
+wpsu_posts	 	Data: 1.88MB + Index: 0.12MB + Engine MyISAM
+wpsu_termmeta	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_terms	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_term_relationships	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_term_taxonomy	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_usermeta	 	Data: 0.10MB + Index: 0.03MB + Engine MyISAM
+wpsu_users	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_wc_admin_notes	 	Data: 0.01MB + Index: 0.00MB + Engine MyISAM
+wpsu_wc_admin_note_actions	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wc_category_lookup	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wc_customer_lookup	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_wc_download_log	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wc_order_coupon_lookup	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wc_order_product_lookup	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_wc_order_stats	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_wc_order_tax_lookup	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wc_product_meta_lookup	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_wc_reserved_stock	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wc_tax_rate_classes	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_wc_webhooks	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wpf_filters	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wpf_modules	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wpf_modules_type	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wpf_usage_stat	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wpmailsmtp_tasks_meta	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wpml_mails	 	Data: 3.08MB + Index: 0.00MB + Engine MyISAM
+wpsu_wpuf_subscribers	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_wpuf_transaction	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_yoast_indexable	 	Data: 0.10MB + Index: 0.04MB + Engine MyISAM
+wpsu_yoast_indexable_hierarchy	 	Data: 0.01MB + Index: 0.03MB + Engine MyISAM
+wpsu_yoast_migrations	 	Data: 0.00MB + Index: 0.01MB + Engine MyISAM
+wpsu_yoast_primary_term	 	Data: 0.00MB + Index: 0.00MB + Engine MyISAM
+wpsu_yoast_seo_links	 	Data: 0.01MB + Index: 0.01MB + Engine MyISAM
+Post Type Counts
+attachment	 	175
+customize_changeset	 	141
+custom_css	 	1
+elementor_library	 	2
+nav_menu_item	 	24
+page	 	40
+post	 	10
+product	 	18
+revision	 	503
+shop_order	 	1
+sln_attendant	 	4
+sln_booking	 	37
+sln_service	 	21
+wpuf_forms	 	1
+wpuf_input	 	2
+ywar_reviews	 	21
+Bảo mật
+Kết nối bảo mật (HTTPS):		
+Ẩn lỗi khỏi người xem		
+Kích hoạt plugin (18)
+BlossomThemes Email Newsletter	 	bởi blossomthemes – 2.1.6
+BlossomThemes Social Feed	 	bởi blossomthemes – 2.0.2
+BlossomThemes Toolkit	 	bởi blossomthemes – 2.2.1
+Bookly	 	bởi Bookly – 19.6.1
+Login/Signup Popup	 	bởi XootiX – 2.1
+Elementor	 	bởi Elementor.com – 3.1.4
+Insert Headers and Footers	 	bởi WPBeginner – 1.5.0
+Loco Translate	 	bởi Tim Whitlock – 2.5.2
+Meta Box	 	bởi MetaBox.io – 5.3.9
+My WP Translate	 	bởi MyThemeShop – 1.0.9
+Regenerate Thumbnails	 	bởi Alex Mills (Viper007Bond) – 3.1.5
+Salon Booking Wordpress Plugin - Free Version	 	bởi Salon Booking System – 5.6
+WooCommerce Product Filter by WooBeWoo	 	bởi WooBeWoo – 1.4.7
+WooCommerce	 	bởi Automattic – 5.2.2
+Yoast SEO	 	bởi Đội nhóm Yoast – 16.0.2
+WP Mail Logging	 	bởi MailPoet – 1.9.7
+WP Mail SMTP	 	bởi WPForms – 2.7.0
+YITH WooCommerce Advanced Reviews	 	bởi YITH – 1.5.3
+Inactive plugins (0)
+Các plugin phải dùng (1)
+Elementor Safe Mode	 	bởi Elementor.com – 1.0.0
+Cài đặt
+API đã bật:		–
+Bắt buộc có SSL:		–
+Tiền tệ		VND (₫)
+Vị trí tiền tệ		right
+Kí tự ngăn cách phần ngàn		,
+Dấu cách phần thập phân		.
+Số chữ số phần thập phân		0
+Taxonomies: Loại sản phẩm		external (external), grouped (grouped), simple (simple), variable (variable)
+Phân loại: Khả năng hiển thị sản phẩm		exclude-from-catalog (exclude-from-catalog), exclude-from-search (exclude-from-search), featured (featured), outofstock (outofstock), rated-1 (rated-1), rated-2 (rated-2), rated-3 (rated-3), rated-4 (rated-4), rated-5 (rated-5)
+Kết nối tới WooCommerce.com:		–
+Trang WooCommerce
+Shop mặc định:		#146 - /dich-vu-2/
+Giỏ hàng:		#147 - /gio-hang/
+Thanh toán:		#148 - /thanh-toan/
+Tài khoản:		#149 - /tai-khoan/
+Quy định và Điều kiện:		 Trang chưa được đặt
+Giao diện
+Tên:		Fashion Diva
+Phiên bản:		1.0.5
+URL tác giả:		https://blossomthemes.com/
+Giao diện con:		
+Tên giao diện cha:		Blossom Fashion
+Phiên bản của giao diện cha:		1.3.4
+URL của tác giả giao diện cha:		https://blossomthemes.com/
+Hỗ trợ WooCommerce:		
+Các mẫu giao diện
+Ghi đè	 	/home/shamvoqo/public_html/wp-content/plugins/easy-login-woocommerce//templates//xoo-el-wc-form-login.php,
+/home/shamvoqo/public_html/wp-content/plugins/easy-login-woocommerce//templates//xoo-el-wc-form-login.php,
+/home/shamvoqo/public_html/wp-content/plugins/yith-woocommerce-advanced-reviews//templates/ywar-rating.php
